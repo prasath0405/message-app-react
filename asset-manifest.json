@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/message-app-react/static/css/main.58e6f746.css",
+    "main.js": "/message-app-react/static/js/main.7f80f9a3.js",
+    "static/js/787.d886f126.chunk.js": "/message-app-react/static/js/787.d886f126.chunk.js",
+    "static/media/pexels-photo-1382731.jpeg": "/message-app-react/static/media/pexels-photo-1382731.b193d6b03eb03b8dde02.jpeg",
+    "static/media/pexels-photo-14526673.jpeg": "/message-app-react/static/media/pexels-photo-14526673.0788a76dbb5345f5a1e3.jpeg",
+    "static/media/pexels-photo-2379005.jpeg": "/message-app-react/static/media/pexels-photo-2379005.46f5950a814905826ba1.jpeg",
+    "static/media/pexels-photo-2474307.jpeg": "/message-app-react/static/media/pexels-photo-2474307.711521eb249d38e91b1a.jpeg",
+    "static/media/pexels-photo-3564412.jpeg": "/message-app-react/static/media/pexels-photo-3564412.99e448e485329d364e99.jpeg",
+    "static/media/pexels-photo-2919367.jpeg": "/message-app-react/static/media/pexels-photo-2919367.32c01f754e44ddcf059c.jpeg",
+    "static/media/logo.svg": "/message-app-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/message-app-react/index.html",
+    "main.58e6f746.css.map": "/message-app-react/static/css/main.58e6f746.css.map",
+    "main.7f80f9a3.js.map": "/message-app-react/static/js/main.7f80f9a3.js.map",
+    "787.d886f126.chunk.js.map": "/message-app-react/static/js/787.d886f126.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58e6f746.css",
+    "static/js/main.7f80f9a3.js"
+  ]
+}
